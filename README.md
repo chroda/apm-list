@@ -6,7 +6,6 @@ My Atom Package Manager List
 `apm install open-on-github activate-power-mode atom-beautify auto-detect-indentation auto-indent emmet keybinding-cheatsheet linter minimap seti-ui`
 
 ## Packages List
-- [open-on-github](https://atom.io/packages/open-on-github)
 - [activate-power-mode](https://atom.io/packages/activate-power-mode)
 - [atom-beautify](https://atom.io/packages/atom-beautify)
 - [auto-detect-indentation](https://atom.io/packages/auto-detect-indentation)
