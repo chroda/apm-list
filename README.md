@@ -3,7 +3,7 @@
 My Atom Package Manager List
 
 ## Instal Command Line
-`apm install open-on-github activate-power-mode atom-beautify auto-detect-indentation auto-indent emmet keybinding-cheatsheet linter minimap`
+`apm install open-on-github activate-power-mode atom-beautify auto-detect-indentation auto-indent emmet keybinding-cheatsheet linter minimap seti-ui`
 
 ## Packages List
 - [open-on-github](https://atom.io/packages/open-on-github)
