@@ -3,7 +3,7 @@
 My Atom Package Manager List
 
 ## Instal Command Line
-`apm install open-on-github activate-power-mode atom-beautify auto-detect-indentation auto-indent emmet keybinding-cheatsheet linter minimap seti-ui`
+`apm install activate-power-mode atom-beautify auto-detect-indentation auto-indent emmet keybinding-cheatsheet linter minimap seti-ui`
 
 ## Packages List
 - [activate-power-mode](https://atom.io/packages/activate-power-mode)
