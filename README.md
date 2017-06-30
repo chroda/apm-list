@@ -4,7 +4,18 @@ My Atom Package Manager List
 
 ## Instal Command Line
 `apm install 
-auto-detect-indentation auto-indent emmet keybinding-cheatsheet linter jslint minimap pigments seti-ui`
+auto-detect-indentation
+auto-indent
+emmet
+keybinding-cheatsheet
+linter
+jslint
+linter-eslint
+atom-clock
+minimap
+pigments
+minimap-pigments
+seti-ui`
 
 ## Packages List
 
@@ -26,6 +37,7 @@ auto-detect-indentation auto-indent emmet keybinding-cheatsheet linter jslint mi
 - [atom-clock](https://atom.io/packages/atom-clock)
 - [minimap](https://atom.io/packages/minimap)
 - [pigments](https://atom.io/packages/pigments)
+- [minimap-pigments](https://atom.io/packages/minimap-pigments)
 
 ## Themes List
 - [seti-ui](https://atom.io/themes/seti-ui)
