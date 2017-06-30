@@ -1,4 +1,5 @@
 # apm-list
+linter
 
 My Atom Package Manager List
 
