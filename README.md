@@ -3,7 +3,8 @@
 My Atom Package Manager List
 
 ## Instal Command Line
-`apm install auto-detect-indentation auto-indent emmet keybinding-cheatsheet linter jslint minimap pigments seti-ui`
+`apm install 
+auto-detect-indentation auto-indent emmet keybinding-cheatsheet linter jslint minimap pigments seti-ui`
 
 ## Packages List
 
