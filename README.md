@@ -1,13 +1,12 @@
 # apm-list
-linter
 
 My Atom Package Manager List
 
 ## Instal Command Line
-`apm install auto-detect-indentation auto-indent emmet keybinding-cheatsheet linter minimap seti-ui`
+`apm install auto-detect-indentation auto-indent emmet keybinding-cheatsheet linter jslint minimap seti-ui`
 
 ## Packages List
-- [activate-power-mode](https://atom.io/packages/activate-power-mode) not so cool after a few seconds
+~- [activate-power-mode](https://atom.io/packages/activate-power-mode) not so cool after a few seconds~
 - [auto-detect-indentation](https://atom.io/packages/auto-detect-indentation)
 - [auto-indent](https://atom.io/packages/auto-indent)
 - [emmet](https://atom.io/packages/emmet)
