@@ -34,7 +34,7 @@ seti-ui`
 ### Linting
 - [linter](https://atom.io/packages/linter)
 - [jslint](https://atom.io/packages/jslint)
-- [linter-eslint](https:atom.io/linter-eslint)
+- [linter-eslint](https://atom.io/packages/linter-eslint)
 - [goto-definition](https://atom.io/packages/goto-definition)
 
 ### Layout Improve
