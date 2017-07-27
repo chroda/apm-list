@@ -13,6 +13,7 @@ keybinding-cheatsheet
 linter
 jslint
 linter-eslint
+goto-definition
 atom-clock
 minimap
 pigments
@@ -34,6 +35,7 @@ seti-ui`
 - [linter](https://atom.io/packages/linter)
 - [jslint](https://atom.io/packages/jslint)
 - [linter-eslint](https:atom.io/linter-eslint)
+- [goto-definition](https://atom.io/packages/goto-definition)
 
 ### Layout Improve
 - [atom-clock](https://atom.io/packages/atom-clock)
