@@ -6,6 +6,7 @@ My Atom Package Manager List
 
 ## Instal Command Line
 `apm install 
+teletype
 auto-detect-indentation
 auto-indent
 emmet
@@ -24,6 +25,9 @@ seti-ui`
 
 ### Not used, but I want to keep here
 - ~[activate-power-mode](https://atom.io/packages/activate-power-mode) not so cool after a few seconds~
+
+### Cooperation
+- [teletype](https://atom.io/packages/teletype)
 
 ### Organization
 - [auto-detect-indentation](https://atom.io/packages/auto-detect-indentation)
