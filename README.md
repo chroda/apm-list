@@ -5,7 +5,8 @@
 My Atom Package Manager List
 
 ## Instal Command Line
-`apm install 
+`apm install
+atom-live-server
 teletype
 auto-detect-indentation
 auto-indent
@@ -21,6 +22,9 @@ seti-ui`
 
 ### Not used, but I want to keep here
 - ~[activate-power-mode](https://atom.io/packages/activate-power-mode) not so cool after a few seconds~
+
+### Agility
+- [atom-live-server](https://atom.io/packages/atom-live-server)
 
 ### Cooperation
 - [teletype](https://atom.io/packages/teletype)
