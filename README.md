@@ -11,10 +11,6 @@ auto-detect-indentation
 auto-indent
 emmet
 keybinding-cheatsheet
-linter
-jslint
-linter-eslint
-goto-definition
 atom-clock
 minimap
 pigments
