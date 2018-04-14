@@ -16,7 +16,7 @@ atom-clock
 minimap
 pigments
 minimap-pigments
-seti-ui`
+seti-ui@1.9.0`
 
 ## Packages List
 
